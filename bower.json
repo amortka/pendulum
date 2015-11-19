@@ -1,0 +1,26 @@
+{
+  "name": "pendulum",
+  "version": "0.0.0",
+  "homepage": "https://github.com/amortka/pendulum",
+  "authors": [
+    "Adam Mortka <amortka@pgs-soft.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "~0.2.15",
+    "lodash": "~3.10.1",
+    "fontawesome": "~4.4.0",
+    "angular-bootstrap": "~0.14.3",
+    "bootstrap": "~3.3.5"
+  }
+}
