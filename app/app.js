@@ -2,5 +2,7 @@
 
 angular.module('myApp', [
     'ui.router',
-    'components'
+    'components',
+    'services',
+    'main'
 ]);
